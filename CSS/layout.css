@@ -1,0 +1,21 @@
+.center {
+	margin-left: auto;
+	margin-right: auto;
+	border-spacing: 3px;
+}
+
+table, th, td {
+	border: 1px solid;
+}
+
+.cellpadding {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+
+figcaption {
+	text-align: center;
+}
